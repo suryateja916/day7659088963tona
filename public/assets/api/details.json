@@ -3,36 +3,72 @@
       "id": 1,
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "title": "We have arrived at the location",
-      "image": "assets/img/1.jpg"
+      "quantity":"Quantity:20",
+      "image": "assets/img/1.jpg",
+      "feature":"Features:",
+      "pointone":"1. Contrarty to popular belief.Lorem ipsum is not simply random text.",
+      "pointtwo":"2. It has roots in a piece.",
+      "pointthree":"3. Richard NcClintock is a Latin professor.",
+      "pointfour":"4. Looked up one of the more obscure Latin words."
     },
     {
       "id": 2,
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.n St",
       "title": "Freshy freshy in rushy rushy morning.",
-      "image": "assets/img/2.jpg"
+      "quantity":"Quantity:20",
+      "image": "",
+      "feature":"Features:",
+      "pointone":"1. Contrarty to popular belief.Lorem ipsum is not simply random text.",
+      "pointtwo":"2. It has roots in a piece.",
+      "pointthree":"3. Richard NcClintock is a Latin professor.",
+      "pointfour":"4. Looked up one of the more obscure Latin words."
     },
     {
       "id": 3,
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.n St",
       "title": "Team Lunch",
-      "image": "assets/img/3.jpg"
+      "quantity":"Quantity:20",
+      "image": "assets/img/3.jpg",
+      "feature":"Features:",
+      "pointone":"1. Contrarty to popular belief.Lorem ipsum is not simply random text.",
+      "pointtwo":"2. It has roots in a piece.",
+      "pointthree":"3. Richard NcClintock is a Latin professor.",
+      "pointfour":"4. Looked up one of the more obscure Latin words."
     },
     {
       "id": 4,
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.n St",
       "title": "Who’s the boss?",
-      "image": "assets/img/4.jpg"
+      "quantity":"Quantity:20",
+      "image": "assets/img/4.jpg",
+      "feature":"Features:",
+      "pointone":"1. Contrarty to popular belief.Lorem ipsum is not simply random text.",
+      "pointtwo":"2. It has roots in a piece.",
+      "pointthree":"3. Richard NcClintock is a Latin professor.",
+      "pointfour":"4. Looked up one of the more obscure Latin words."
     },
     {
       "id": 5,
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.n St",
       "title": "Play Time",
-      "image": "assets/img/5.jpg"
+      "quantity":"Quantity:20",
+      "image": "assets/img/5.jpg",
+      "feature":"Features:",
+      "pointone":"1. Contrarty to popular belief.Lorem ipsum is not simply random text.",
+      "pointtwo":"2. It has roots in a piece.",
+      "pointthree":"3. Richard NcClintock is a Latin professor.",
+      "pointfour":"4. Looked up one of the more obscure Latin words."
     },
     {
       "id": 6,
       "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.n St",
       "title": "Trip comes to end",
-      "image": "assets/img/6.jpg"
+      "quantity":"Quantity:20",
+      "image": "assets/img/6.jpg",
+      "feature":"Features:",
+      "pointone":"1. Contrarty to popular belief.Lorem ipsum is not simply random text.",
+      "pointtwo":"2. It has roots in a piece.",
+      "pointthree":"3. Richard NcClintock is a Latin professor.",
+      "pointfour":"4. Looked up one of the more obscure Latin words."
     }
   ]

@@ -1,19 +1,13 @@
 .carousel{
     margin-top: 70px;
-    h1{
-        text-align: center;
-        padding-bottom: 30px;
+    .react-multi-carousel-list{
+        border: solid 1px #e5e5e5;;
     }
-    img{
-        width: 100%;
-    }
-}
-.details{
-    margin-top: 50px;
     h1{
         border-bottom: solid 1px #e5e5e5;
         position: relative;
         margin-bottom: 30px;
+        padding-bottom: 16px;
         &:after{
             position: absolute;
             content: "";
@@ -21,14 +15,73 @@
             width: 109px;
             left: 0;
             bottom: -1px;
-            background: #e47b01;
+            background: #1a1b1b;
+        }
+    }
+  .react-multi-carousel-list {
+    background-color: #eee9e947;
+    box-shadow:1px 1px 12px 3px #cec5c5;
+    position: initial !important;
+    ul{
+        li{
+            img{
+                // width: 100%;
+                width: 93%;
+                height: 5%;
+                padding: 5%;
+                margin: 36px 10px;
+                cursor: pointer;
+                &:hover{
+                    padding: 0;
+                }
+            }
+            .active{
+                border: 2px solid #E27D60;
+            }
+        }
+    }
+    .react-multiple-carousel__arrow--right {
+        margin: -80px;
+      }
+      .react-multiple-carousel__arrow--left{
+        margin: -80px;
+      }
+      .react-multiple-carousel__arrow{
+          border-radius: 0;
+      }
+      .react-multi-carousel-dot-list{
+          bottom: -40px;
+      }
+  }
+  
+}
+.details{
+    margin-top: 50px;
+    h1{
+        border-bottom: solid 1px #e5e5e5;
+        position: relative;
+        margin-bottom: 30px;
+        padding-bottom: 16px;
+        &:after{
+            position: absolute;
+            content: "";
+            height: 3px;
+            width: 109px;
+            left: 0;
+            bottom: -1px;
+            background: #1a1b1b;
         }
     }
     .cont{
         border: solid 1px #e5e5e5;
+        box-shadow:1px 1px 12px 3px #cec5c5;
         padding: 20px;
+        margin-bottom: 10%;
         img{
             width: 100%;
+        }
+        h3{
+            margin-top: 20px;
         }
         button{
             border: none;
@@ -52,6 +105,7 @@
             overflow: hidden;
             display: block;
             margin: 50px auto 0 auto;
+            border-radius: 53px;
         }
     }
 }
